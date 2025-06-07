@@ -32,3 +32,9 @@ It's a living document of my growth as a tech enthusiast, aspiring developer, an
 - Clean layout for easy navigation  
 - Contact section for outreach  
 - Showcase of projects, skills, and accomplishments
+
+---
+
+## 📬 Contact
+
+If you’d like to connect or collaborate, feel free to reach out via email or LinkedIn!
